@@ -1,3 +1,5 @@
 # yameens_first_repository
 yameen first repository
-# I am practicing my git basics
+# I am practicing my git basics\
+git add .
+git commit -m "anyting"
